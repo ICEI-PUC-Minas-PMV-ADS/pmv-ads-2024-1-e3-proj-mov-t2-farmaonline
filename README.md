@@ -12,7 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Natali Xavier da Costa
 * Nome completo do aluno 2
-* Nome completo do aluno 3
+* Ana Clara Rozinholi
 * Nome completo do aluno 4
 
 ## Orientador
