@@ -1,8 +1,7 @@
 # Apresentação
 
-<span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
+[Apresentação de Trabalho.pdf](https://github.com/user-attachments/files/15942119/Apresentacao.Apresentacao.Trabalho.de.Conclusao.de.Curso.Geometrico.Azul.pdf)
 
-Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do projeto contemplando todos os itens trabalhados nos demais artefatos.
 
 ## Título do Projeto
 
