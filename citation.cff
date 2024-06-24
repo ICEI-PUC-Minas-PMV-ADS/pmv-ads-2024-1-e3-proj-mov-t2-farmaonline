@@ -1,0 +1,29 @@
+message: Please cite this software using these metadata.
+title:
+authors:
+  - family-names: Xavier da Costa
+    given-names: Natali 
+  - family-names: França Dutra Sasaki
+    given-names: Shigery 
+  - family-names: Clara Rozinholi
+    given-names: Ana 
+  - family-names: Stankevicius
+    given-names: Renan 
+  - family-names:  Janon Teixeira Leite
+    given-names: Raul
+  - family-names: Soares da Silva
+    given-names: Matheus 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Fritzke Junior
+    given-names: Udo 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: 
+    given-names: 
+keywords:
+  - Analise e desenvolvimento de sistemas
+  - Projeto Eixo 3
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t2-farmaonline.git
+version: 1.0.0
+date-released: 2024-06-23
